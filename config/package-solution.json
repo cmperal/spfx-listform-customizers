@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ext-formcustomization-client-side-solution",
+    "id": "cd217d80-d3ee-49bb-9c40-361a12e05cb1",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.4"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "ext-formcustomization description"
+      },
+      "longDescription": {
+        "default": "ext-formcustomization description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "ext-formcustomization Feature",
+        "description": "The feature that activates elements of the ext-formcustomization solution.",
+        "id": "809cd8c4-fe21-439b-84cf-61589d928ca8",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/ext-formcustomization.sppkg"
+  }
+}

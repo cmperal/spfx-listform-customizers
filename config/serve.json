@@ -4,33 +4,33 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://{tenantDomain}/_layouts/15/SPListForm.aspx",
+      "pageUrl": "https://cmperal.sharepoint.com/sites/DeveloperSite/_layouts/15/SPListForm.aspx",
       "formCustomizer": {
         "componentId": "099c0d63-5487-4110-b406-bcfbf39c1041",
         "PageType": 8,
-        "RootFolder": "/sites/mySite/Lists/MyList",
+        "RootFolder": "/sites/DeveloperSite/Lists/NASA%20Mission%20Planning",
         "properties": {
           "sampleText": "Value"
         }
       }
     },
     "nasaMissionPlannerForms_NewForm": {
-      "pageUrl": "https://{tenantDomain}/_layouts/15/SPListForm.aspx",
+      "pageUrl": "https://cmperal.sharepoint.com/sites/DeveloperSite/_layouts/15/SPListForm.aspx",
       "formCustomizer": {
         "componentId": "099c0d63-5487-4110-b406-bcfbf39c1041",
         "PageType": 8,
-        "RootFolder": "/sites/mySite/Lists/MyList",
+        "RootFolder": "/sites/DeveloperSite/Lists/NASA%20Mission%20Planning",
         "properties": {
           "sampleText": "Value"
         }
       }
     },
     "nasaMissionPlannerForms_EditForm": {
-      "pageUrl": "https://{tenantDomain}/_layouts/15/SPListForm.aspx",
+      "pageUrl": "https://cmperal.sharepoint.com/sites/DeveloperSite/_layouts/15/SPListForm.aspx",
       "formCustomizer": {
         "componentId": "099c0d63-5487-4110-b406-bcfbf39c1041",
         "PageType": 6,
-        "RootFolder": "/sites/mySite/Lists/MyList",
+        "RootFolder": "/sites/DeveloperSite/Lists/NASA%20Mission%20Planning",
         "ID": 1,
         "properties": {
           "sampleText": "Value"
@@ -38,11 +38,11 @@
       }
     },
     "nasaMissionPlannerForms_ViewForm": {
-      "pageUrl": "https://{tenantDomain}/_layouts/15/SPListForm.aspx",
+      "pageUrl": "https://cmperal.sharepoint.com/sites/DeveloperSite/_layouts/15/SPListForm.aspx",
       "formCustomizer": {
         "componentId": "099c0d63-5487-4110-b406-bcfbf39c1041",
         "PageType": 4,
-        "RootFolder": "/sites/mySite/Lists/MyList",
+        "RootFolder": "/sites/DeveloperSite/Lists/NASA%20Mission%20Planning",
         "ID": 1,
         "properties": {
           "sampleText": "Value"

@@ -1,7 +1,7 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-extension-manifest.schema.json",
 
-  "id": "099c0d63-5487-4110-b406-bcfbf39c1041",
+  "id": "83b00a82-14e1-4f2c-bbfa-b74cdf5226fb",
   "alias": "NasaMissionPlannerFormsFormCustomizer",
   "componentType": "Extension",
   "extensionType": "FormCustomizer",
